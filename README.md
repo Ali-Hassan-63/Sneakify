@@ -1,1 +1,3 @@
 # Ecommerce-store
+Using HTML,CSS and javascript, we have made front end non-functional webpage for an ecommerce store. It is basically a sneakers store where html is used to add products, their description, prices. Different Div's and clasess are defined for multiple products. CSS enhances beauty of sneakers store. Items placing and description isarranged in best possible way to enhance interactivity. JavaScript is used to add animations like slidesows and product variations on basis of colour and size selection of product. User can add itms to buy for him.
+Credits: Muhammad Ahmad & Adeel Yaqoob
