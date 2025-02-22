@@ -1,8 +1,6 @@
 # 👟 Sneaker Haven – E-Commerce Store  
 
 🚀 **Fueled by a love for sneakers**, this modern and responsive **Sneaker Haven** e-commerce store is designed for sneaker enthusiasts who appreciate style, comfort, and the latest trends. Built using **HTML, CSS, and JavaScript**, this project offers a seamless shopping experience with dynamic features and a sleek UI.  
-![Store]("C:\Users\Lenovo\OneDrive\사진\Screenshots\Screenshot 2025-02-22 205418.png")
-
 ---
 
 ## 🎯 Features  
